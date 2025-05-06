@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Casa Inteligente</string>
+    <string name="recamara_1">RECAMARA 1</string>
+    <string name="luz_apagada">Luz apagada</string>
+    <string name="puerta_cerrada">Puerta cerrada</string>
+    <string name="descripcion_cama">Ícono de cama</string>
+    <string name="descripcion_lampara">Ícono de lámpara</string>
+    <string name="descripcion_puerta">Ícono de puerta</string>
+    <string name="descripcion_regresar">Botón para regresar</string>
+</resources>
